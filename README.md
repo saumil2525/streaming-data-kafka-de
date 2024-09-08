@@ -9,7 +9,7 @@ Data is streamed from RandomGenerator.me. Once the data is retrieved, it is tran
 - SQL
   
 
-### Tools:
+### Tools/python libraries:
 - VS Code
 - Cassandra db
 - Postgres
